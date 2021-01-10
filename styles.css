@@ -1,0 +1,53 @@
+body {
+   background-color: #ffc8c8;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #444f5a;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+
+  color: #ff9999;
+  font-family: "Sofia", sans-serif;
+  }
+
+h3 {
+
+color: #ff9999;
+font-family: "Sofia", sans-serif;
+}
+
+p {
+  color: #444f5a;
+  font-family: Ubuntu, sans-serif;
+}
+
+ul {
+  color: #444f5a;
+  font-family: Ubuntu, sans-serif;
+}
+
+ol {
+  color: #444f5a;
+  font-family: Ubuntu, sans-serif;
+}
+
+a {
+  color: #444f5a;
+  font-family: Ubuntu, sans-serif;
+}
+
+table {
+  color: #444f5a;
+  font-family: Ubuntu, sans-serif;
+}
+
+/**CLASS SELECTORS**/
+
+.naama {
+  border-radius: 100%
+}
